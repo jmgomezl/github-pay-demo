@@ -2,6 +2,8 @@
 
 **Open a pull request here and an AI agent automatically pays you 10 testnet HBAR** — settled on Hedera with an on-chain receipt. No human in the loop.
 
+> **⚡ Prefer a button?** Try the one-click claim at **[github-pay.aivylabs.xyz](https://github-pay.aivylabs.xyz)** — same on-chain flow, no PR needed.
+
 Powered by [`@jmgomezl/github-pay`](https://github.com/jmgomezl/hak-plugin-github-pay) · server health: [github-pay.aivylabs.xyz/health](https://github-pay.aivylabs.xyz/health)
 
 ---
